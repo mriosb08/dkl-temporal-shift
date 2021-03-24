@@ -8,7 +8,7 @@ We modified the code for extracting a population with temporal shift.
 
 Please cite the following publication:
 
-Miguel Rios and Ameen Abu-Hanna. "Deep Kernel Learning for Mortality Prediction in the Face of Temporal Shift." AIME (2021). 
+Miguel Rios and Ameen Abu-Hanna. "Deep Kernel Learning for Mortality Prediction in the Face of Temporal Shift." Artificial Intelligence in Medicine (2021). 
 
 ## Requirements
 
