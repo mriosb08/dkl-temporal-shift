@@ -4,6 +4,11 @@ Code based on: https://github.com/YerevaNN/mimic3-benchmarks
 
 We modified the code for extracting a population with temporal shift.
 
+## Citation
+
+Please cite the following publication:
+
+Miguel Rios and Ameen Abu-Hanna. "Deep Kernel Learning for Mortality Prediction in the Face of Temporal Shift." AIME (2021). 
 
 ## Requirements
 
